@@ -165,8 +165,7 @@ button:hover{
     }
 }
 
-.footer{
+footer h1{
+    color: black;
     text-align: center;
-    margin-top: 500px;
-    color: wheat;
 }
